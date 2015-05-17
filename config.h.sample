@@ -1,0 +1,4 @@
+#define MQTT_HOST  "mqtt.tiefpunkt.com"
+#define MQTT_PORT  1883
+#define MQTT_USER  "xxxxxxxxx"
+#define MQTT_PASS  "xxxxxxxxx"
