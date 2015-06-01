@@ -2,3 +2,6 @@
 #define MQTT_PORT  1883
 #define MQTT_USER  "xxxxxxxxx"
 #define MQTT_PASS  "xxxxxxxxx"
+
+#define WIFI_SSID  "munichmakerlab"
+#define WIFI_PW    "xxxxxxxxx"
